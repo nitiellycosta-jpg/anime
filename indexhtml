@@ -1,3 +1,14 @@
 Anime
 
-Cada anime conta uma historia. Aqui,cada postagem abre um novo portal para mundos incriveis, batalhas epicas e emocoes inequesciveis
+<<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>blognime</h1>
+    <p>Cada anime conta uma historia. Aqui,cada postagem abre um novo portal para mundos incriveis, batalhas epicas e emocoes inequesciveis</p>
+</body>
+</html>
